@@ -57,7 +57,7 @@ flowchart TD
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/nayak4/insightscout.git
+    git clone https://github.com/Nayak4/insightscout_hackathon2025.git
     cd insightscout
     ```
 
