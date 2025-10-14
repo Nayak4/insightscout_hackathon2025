@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+.idea
+
+# files
+workflow.py
+wip.py
+StreamlitUI.py
+StreamlitUI_newlook.py
+confluence_pages.json
+
+
+# Mac
+.DS_Store
